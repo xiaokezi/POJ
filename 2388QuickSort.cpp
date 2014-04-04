@@ -43,4 +43,5 @@ int main()
 	quickSort(cow,0,N-1);
 	int mid = N/2;
 	cout<<cow[mid];
+	return 0;
 }

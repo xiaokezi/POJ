@@ -57,4 +57,5 @@ int main()
 		cout<<"minimum number of swap: "<<count<<endl;
 		cin>>n;
 	}
+	return 0;
 }

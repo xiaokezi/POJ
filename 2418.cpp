@@ -90,4 +90,5 @@ int main()
 	}
 	BSTNode *x = t.getRoot(t);
 	t.inorder(x);
+	return 0;
 }
